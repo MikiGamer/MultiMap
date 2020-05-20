@@ -1,0 +1,11 @@
+# bam ignore
+/.bam
+
+# out ignore
+/out
+
+# vs ignore
+/.vs
+
+# objs ignore
+/objs
